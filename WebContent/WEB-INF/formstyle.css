@@ -1,0 +1,25 @@
+body {
+	background-color: #ddd;
+	width: 800px;
+	margin: 0 auto;
+	padding: 10px;
+	font-size: 25px;
+}
+
+
+.texte-Gros{
+font-size : 35px;	
+}
+.texte-bleu{
+	color : blue;
+	font-weight: bold;
+}
+
+table {
+	border-collapse: collapse;
+		margin: 0 auto;
+}
+
+table, tr {
+	border: 1px solid red;
+}
